@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 37a2f404c6fc6044aa5476909d6dc187
+timeCreated: 1491445724
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redNormal: {fileID: 21300000, guid: ce8bedc930f0baa46acd5fc8087d2453, type: 3}
+  - yellowNormal: {fileID: 21300000, guid: 282b0d6d9d6b47a479fa53b7d429506d, type: 3}
+  - greenNormal: {fileID: 21300000, guid: d9a9e8935c42355419e771f2e41fe173, type: 3}
+  - blueNormal: {fileID: 21300000, guid: 9c1eb85061fb91e408d2d28aaa2ca6b9, type: 3}
+  - redFreeze: {instanceID: 0}
+  - yellowFreeze: {instanceID: 0}
+  - greenFreeze: {instanceID: 0}
+  - blueFreeze: {instanceID: 0}
+  - redSpecial: {fileID: 21300000, guid: 9d1b909398c5dd648a0b2718333922ba, type: 3}
+  - yellowSpecial: {fileID: 21300000, guid: 723b7e3b26f07674084efaf590e3db33, type: 3}
+  - greenSpecail: {fileID: 21300000, guid: fab19210695e12547b246f0c969923aa, type: 3}
+  - blueSpecial: {fileID: 21300000, guid: 73dda2967eb3b3741b1bb3feac1c8a8e, type: 3}
+  - Super: {fileID: 21300000, guid: d43408e2c7e3cb9499af218b9b9c085a, type: 3}
+  - playBackGround: {instanceID: 0}
+  - senceBackGround: {instanceID: 0}
+  - clearFxObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
